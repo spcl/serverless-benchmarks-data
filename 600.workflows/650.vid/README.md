@@ -1,0 +1,1 @@
+We use a frozen inference graph for this benchmark which is too large for being included on GitHub. It can be downlaoded from here: http://download.tensorflow.org/models/object_detection/faster_rcnn_resnet50_coco_2018_01_28.tar.gz
